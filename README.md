@@ -1,0 +1,2 @@
+# WheatadaptNet
+New segmentation framework
