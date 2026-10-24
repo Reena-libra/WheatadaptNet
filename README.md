@@ -15,12 +15,12 @@ Configure the dataset paths as required by the implementation.
 
 ### 3. Train the model
 ```bash
-python train.py
+python train_deform_off_k_new.py
 ```
 
 ### 4. Test the trained model
 ```bash
-python test.py
+python test_wheat_deformoff.py
 ```
 
 Ensure that the dataset paths, model checkpoint and experimental parameters are configured correctly before running the scripts.
